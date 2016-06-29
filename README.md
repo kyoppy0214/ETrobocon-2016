@@ -1,3 +1,4 @@
 # ETrobocon-2016
 
-����ɂ��́AMori�ł��B
+こんにちは、Morichanです。
+tanakasampleを置いておきます。
