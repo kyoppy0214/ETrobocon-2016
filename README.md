@@ -1,4 +1,5 @@
 # ETrobocon-2016
 
 こんにちは、Morichanです。
-変わってますか？
+ETrobocon2016で使われるであろうC++コードのサンプル、通称tanakasampleです。
+欲しい人は持ってってください。
