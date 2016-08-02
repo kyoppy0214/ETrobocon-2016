@@ -75,7 +75,7 @@ void main_task(intptr_t unused) {
     emoter->reset();
 
     /*---------------Main Task from Here ここから---------------*/
-
+    //tachiyama参上
     emoter->wipe(100, 5, 180); // 尾が速度100で5回、180度ワイプする
     emoter->turn(100);         // 尾が速度100で回転する
     lifter->liftUp();          // 手が上がる
@@ -87,6 +87,9 @@ void main_task(intptr_t unused) {
     emoter->changeDefault(90);
     // pidWalker->trace();        // PID（実質PD）制御でライントレースする
 
+
+
+	//sato sanjo
     /*---------------Main Task upto Here ここまで---------------*/
 
     lifter->terminate();
