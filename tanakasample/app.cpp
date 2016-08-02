@@ -87,6 +87,9 @@ void main_task(intptr_t unused) {
     emoter->changeDefault(90);
     // pidWalker->trace();        // PID（実質PD）制御でライントレースする
 
+
+
+	//sato sanjo
     /*---------------Main Task upto Here ここまで---------------*/
 
     lifter->terminate();
